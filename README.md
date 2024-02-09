@@ -5,8 +5,20 @@ I'm a junior software developer for the UK's leading awarding organisation and E
 
 ---
 ### 🔭 What I'm Up To:
-Creating a unique social media iPhone app.<br>
-Building a personal website/ portfolio.
+<details>
+  <summary>
+    Creating a unique social media iPhone app.
+  </summary>
+    <a href="https://github.com/BowerHarry/social-media-iphone-app">📱 iPhone app repo</a><br>
+    <a href="https://github.com/BowerHarry/social-media-app">👨🏻‍💻 PHP web service repo hosted with Azure</a>
+</details>
+<details>
+  <summary>
+    Building a personal website/ portfolio.
+  </summary>
+    <a href="https://github.com/BowerHarry/harry-bower-website">👨🏻‍💻 Website repo</a>
+</details>
+
 
 ### 🌱 What I'm Currently Learning
 At work: C#, VB, MSSQL, Azure, HTML, ASP .NET Core<br>
