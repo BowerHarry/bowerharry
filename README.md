@@ -27,9 +27,10 @@ I'm a junior software developer for the UK's leading awarding organisation and E
 
 
 ### 🌱 What I'm Currently Learning
-At work: C#, VB, MSSQL, Azure, HTML, ASP .NET Core<br>
-Social media app: Swift, PHP, Azure, MSSQL<br>
+At work: C#, VB, SQL Server, Azure, HTML, ASP .NET Core<br>
+Social media app: Swift, PHP, Azure, MSSQL, REST API<br>
 Personal website: HTML, Bootstrap, ASP.NET Core<br>
+Puzzle game: Kivy GUI library for Python, IOS deployment.
 
 ---
 ### 🌐 Connect With Me:
