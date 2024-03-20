@@ -18,6 +18,12 @@ I'm a junior software developer for the UK's leading awarding organisation and E
   </summary>
     <a href="https://github.com/BowerHarry/harry-bower-website">👨🏻‍💻 Website repo</a>
 </details>
+<details>
+  <summary>
+    Designing a challenging puzzle game for iPhone (and other platforms).
+  </summary>
+  <a href="https://github.com/BowerHarry/sliq">♟️Sliq repo</a>
+</details>
 
 
 ### 🌱 What I'm Currently Learning
