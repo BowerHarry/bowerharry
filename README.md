@@ -22,8 +22,8 @@ I maintain a [**Central Documentation Hub**](https://github.com/YOUR_GITHUB_USER
 #### 🎵 The iPod Revival Ecosystem
 * [**ClickWheel**](https://github.com/BowerHarry/docs-hub/blob/main/click-wheel/README.md) – MacOS app for managing and syncing music to legacy iPods.
 * [**libsyncsupport**](https://github.com/BowerHarry/docs-hub/blob/main/libsyncsupport/README.md) – Low-level Swift sync engine for legacy iPods.
-* [**TheBridge**](https://github.com/BowerHarry/docs-hub/blob/main/the-bridge/README.md) – Ultra-miniature wireless sync bridge for legacy iPods.
-* [**libpodbridgesupport**](https://github.com/BowerHarry/docs-hub/blob/main/libpodbridgesupport/README.md) – Swift package for ESP32 bridge discovery and API access.
+* [**TheBridge**](https://github.com/BowerHarry/docs-hub/blob/main/the-bridge/README.md) – Ultra-miniature ESP32 legacy iPod accessory for wireless syncing.
+* [**libpodbridgesupport**](https://github.com/BowerHarry/docs-hub/blob/main/libpodbridgesupport/README.md) – Swift package for TheBridge discovery and API access.
 
 #### 🎮 Gaming
 * [**Sliq**](https://github.com/BowerHarry/docs-hub/blob/main/sliq/README.md) – Challenging tile-based puzzle game for iOS.
