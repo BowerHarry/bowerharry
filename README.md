@@ -1,44 +1,37 @@
-### <p align="center">Hi 👋 I'm Harry Bower</p>
+# Hi, I'm Harry Bower 👋
+**Mid-Level Full-Stack Developer | Software Engineer at EA Sports**
 
-### 💫 About Me:
-I'm a junior software developer for the UK's leading awarding organisation and EPAO IT system.
-
----
-### 🔭 What I'm Up To:
-<details>
-  <summary>
-    Creating a unique social media iPhone app.
-  </summary>
-    <a href="https://github.com/BowerHarry/social-media-iphone-app">📱 iPhone app repo</a><br>
-    <a href="https://github.com/BowerHarry/social-media-app">👨🏻‍💻 PHP web service repo hosted with Azure</a>
-</details>
-<details>
-  <summary>
-    Building a personal website/ portfolio.
-  </summary>
-    <a href="https://github.com/BowerHarry/harry-bower-website">👨🏻‍💻 Website repo</a>
-</details>
-<details>
-  <summary>
-    Designing a challenging puzzle game for iPhone (and other platforms).
-  </summary>
-  <a href="https://github.com/BowerHarry/sliq">♟️Sliq repo</a>
-</details>
+I code pretty much anything I can think of. My professional life is rooted in the **.NET/Angular** ecosystem, while my personal projects tend to dive into **Swift**, **C++**, and **React**.
 
 ---
-### 🌱 What I'm Currently Learning:
-At work: C#, VB, SQL Server, Azure, HTML, ASP .NET Core<br>
-Social media app: Swift, PHP, Azure, MSSQL, REST API<br>
-Personal website: HTML, Bootstrap, ASP.NET Core<br>
-Puzzle game: Kivy GUI library for Python, IOS deployment.
+
+### 🛠️ Tech Stack & Expertise
+
+| Focus | Technologies |
+| :--- | :--- |
+| **Professional (EA Sports)** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) |
+| **Cloud & DevOps** | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Personal & Creative** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| **Previous Professional Experience** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
 
 ---
-### 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harry-bower) 
+
+### 📂 Personal Project Hub
+I maintain a [**Central Documentation Hub**](https://github.com/YOUR_GITHUB_USERNAME/docs-hub) for my private projects.
+
+#### 🎵 The iPod Revival Ecosystem
+* [**ClickWheel**](https://github.com/BowerHarry/docs-hub/blob/main/click-wheel/README.md) – MacOS app for managing and syncing music to legacy iPods.
+* [**libsyncsupport**](https://github.com/BowerHarry/docs-hub/blob/main/libsyncsupport/README.md) – Low-level Swift sync engine for legacy iPods.
+* [**TheBridge**](https://github.com/BowerHarry/docs-hub/blob/main/the-bridge/README.md) – Ultra-miniature wireless sync bridge for legacy iPods.
+* [**libpodbridgesupport**](https://github.com/BowerHarry/docs-hub/blob/main/libpodbridgesupport/README.md) – Swift package for ESP32 bridge discovery and API access.
+
+#### 🎮 Gaming
+* [**Sliq**](https://github.com/BowerHarry/docs-hub/blob/main/sliq/README.md) – Challenging tile-based puzzle game for iOS.
 
 ---
-### 💻 Tech Stack:
-Languages: ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-<br>Developer Tools: ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=flat&logo=azuredevops&logoColor=white&color=%230078D7) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) 
-<br>Libraries/Frameworks: ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-<br>Databases:![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+
+### 🤝 Connect with Me
+* **LinkedIn:** [linkedin.com/in/harry-bower/](https://www.linkedin.com/in/harry-bower/)
+* **Contact:** *Source code for private projects is available upon request for collaboration or architectural review.*
+
+---
