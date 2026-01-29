@@ -17,7 +17,7 @@ I code pretty much anything I can think of. My professional life is rooted in th
 ---
 
 ### 📂 Personal Project Hub
-I maintain a [**Central Documentation Hub**](https://github.com/YOUR_GITHUB_USERNAME/docs-hub) for my private projects.
+I maintain a [**Central Documentation Hub**](https://github.com/BowerHarry/docs-hub) for my private projects.
 
 #### 🎵 The iPod Revival Ecosystem
 * [**ClickWheel**](https://github.com/BowerHarry/docs-hub/blob/main/click-wheel/README.md) – MacOS app for managing and syncing music to legacy iPods.
