@@ -25,9 +25,11 @@ I maintain a [**Central Documentation Hub**](https://github.com/BowerHarry/docs-
 * [**TheBridge**](https://github.com/BowerHarry/docs-hub/blob/main/the-bridge/README.md) – Ultra-miniature ESP32 legacy iPod accessory for wireless syncing.
 * [**libpodbridgesupport**](https://github.com/BowerHarry/docs-hub/blob/main/libpodbridgesupport/README.md) – Swift package for TheBridge discovery and API access.
 
-#### 🎮 Gaming
+#### 🎮 Games
 * [**Sliq**](https://github.com/BowerHarry/docs-hub/blob/main/sliq/README.md) – Challenging tile-based puzzle game for iOS.
 
+#### 🎭 London theatre · Standing tickets
+* [**Yellow Sticker**](https://github.com/BowerHarry/YellowSticker) – Alerts when same-day standing tickets appear on London theatre box offices ([yellowsticker.uk](https://yellowsticker.uk)).
 ---
 
 ### 🤝 Connect with Me
