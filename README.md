@@ -40,6 +40,6 @@ I maintain a [**Central Documentation Hub**](https://github.com/BowerHarry/docs-
 
 ### 🤝 Connect with Me
 * **LinkedIn:** [linkedin.com/in/harry-bower](https://www.linkedin.com/in/harry-bower)
-* **Contact:** *Source code for private projects is available upon request for collaboration or architectural review.*
+* **Contact:** *Source for any project is available on request, and I'm happy to walk through any of it.*
 
 ---
