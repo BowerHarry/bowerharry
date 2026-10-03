@@ -1,7 +1,7 @@
 # Hi, I'm Harry Bower 👋
 **Full-Stack Software Engineer | EA SPORTS FC Live Tools**
 
-I code pretty much anything I can think of. My professional life is rooted in the **.NET/Angular** ecosystem, where I'm integrating the tooling behind FC Ultimate Team's packs and store with a new Git-like data platform. 
+I code pretty much anything I can think of. My professional work is in the .NET/Angular ecosystem, building internal tools for EA SPORTS FC Ultimate Team.
 
 My personal projects tend to dive into **Swift**, **React**, **C++** and custom hardware.
 
